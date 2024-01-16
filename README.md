@@ -16,6 +16,8 @@ Juego sencillo pensado para móvil, está programado para ordenador, futuramente
 
 ## Para futuro
 Falta poner efectos de sonido y música al juego.
+
 También un texto que diga cuál ha sido la puntuación más alta.
+
 También estaría bien hacer el juego más difícil a medida que sube la puntuación, 
 esto se podría hacer aumentando la velocidad de los meteoritos según la puntuación del jugador.
