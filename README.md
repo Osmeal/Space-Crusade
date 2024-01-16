@@ -1,6 +1,6 @@
->![NOTE]
+
 >Falta implementar audio al juego
->![NOTE]
+
 >Falta implementar un best score en el menu
 
 # Space-Crusade
